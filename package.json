@@ -1,16 +1,19 @@
 {
-  "name": "nodejs",
+  "name": "confusion",
   "version": "1.0.0",
-  "description": "think and learn",
+  "description": "This is a website for Ristorante Con Fusion",
   "main": "index.html",
   "scripts": {
+    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"npm run lite",
-    "lite":"lite-server"	 
- },
-  "author": "zhyao2015",
+    "lite": "lite-server"
+  },
+  "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.3.0"
+    "lite-server": "^2.2.2"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
   }
 }
