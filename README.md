@@ -1,2 +1,3 @@
 # nodejs_bootstrap_fun
-Front-end developing
+Front-end developing with Coursera
+Bootstrap-4
